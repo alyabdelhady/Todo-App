@@ -1,0 +1,54 @@
+/* .title{
+    padding: 5px 60px;
+    font-weight: 800;
+    font-size: 20px;
+    border: solid 2px ;
+  } */
+
+  .value{
+    font-weight: bold;
+    border: solid 1px rgb(255, 190, 190) ;
+    background-color: rgb(255, 255, 255);
+    padding: 10px 0;
+    
+  }
+  .headerListItems{ 
+      width: 60%;
+      margin: auto;
+      margin-bottom: 0;
+  }
+  .title{ 
+
+    font-weight: bold;
+    font-size: 20px;
+    border: solid 1px rgb(0, 0, 0) ;
+    background-color: rgb(255, 215, 186);
+    padding: 10px 0;
+    
+  }
+  .headerName { 
+      display: inline-block;
+      width: 40%;
+
+  }
+  .headerAge{ 
+    display:  inline-block;
+    width: 30%;
+  }
+  .headerAction{ 
+    display:  inline-block;
+    width: 10%;
+  }
+  .name{
+    display: inline-block;
+    width: 40%;
+  }
+
+  .age{
+    display:  inline-block;
+    width: 30%;
+  }
+  .action{
+    display:  inline-block;
+    width: 10%;
+  }
